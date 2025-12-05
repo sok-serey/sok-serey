@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi there, I'm **Sokserey** 👋
 
-<!--
-**sok-serey/sok-serey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sokserey&fontSize=70&fontAlignY=38&animation=twinkling)
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Passionate learner diving deep into <strong>Artificial Intelligence</strong> and <strong>Robotics</strong> 🤖</em><br>
+  <em>Building intelligent systems, one line of code at a time.</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🚀 About Me
+I'm a curious and motivated learner obsessed with creating smart machines and solving real-world problems through AI and robotics.
+
+> _"The best way to predict the future is to invent it."_ – Alan Kay
+
+<br>
+
+## 🔭 Currently Working On
+- Strengthening core AI & Robotics knowledge
+- Building real-world intelligent systems
+- Developing end-to-end AI + Robotics projects
+- Exploring autonomous systems & sensor fusion
+
+## 🌱 Currently Learning
+<div align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="ML"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="DL"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-00D2B8?style=for-the-badge&logo=opencv&logoColor=white" alt="CV"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+</div>
+
+- Neural Networks & Deep Learning
+- Computer Vision (OpenCV, YOLO, etc.)
+- Robot Operating System (ROS/ROS2)
+- Reinforcement Learning
+- Sensor Fusion & Embedded Systems
+
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br>
+
+## 🏆 Learning Roadmap
+| Stage                  | Topics                                      | Status       |
+|-----------------------|----------------------------------------------|--------------|
+| 1. AI Fundamentals     | Python, NumPy, Pandas, ML Basics             | ✅ Completed |
+| 2. Machine Learning    | Supervised/Unsupervised, Scikit-learn        | ✅ Completed |
+| 3. Deep Learning       | CNNs, RNNs, Transformers, PyTorch           | 🚀 In Progress |
+| 4. Computer Vision     | OpenCV, Object Detection, Segmentation       | 🚀 In Progress |
+| 5. Robotics            | Kinematics, Control Systems, ROS             | 🔜 Upcoming |
+| 6. Advanced Robotics   | SLAM, Navigation, Multi-robot systems        | 🔜 Upcoming |
+
+<br>
+
+## 🎨 Creative Side
+When I'm not coding, I enjoy:
+- Video editing with **Adobe Premiere Pro**
+- Designing with **Adobe Photoshop**
+- Building physical robots & 3D printing
+
+<br>
+
+## 🤝 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <em>Feel free to explore my projects and reach out for collaboration on AI or Robotics!</em>
+</p>
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
