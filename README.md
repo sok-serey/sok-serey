@@ -14,30 +14,6 @@ I'm a curious and motivated learner obsessed with creating smart machines and so
 
 > _"The best way to predict the future is to invent it."_ – Alan Kay
 
-<br>
-
-## 🔭 Currently Working On
-- Strengthening core AI & Robotics knowledge
-- Building real-world intelligent systems
-- Developing end-to-end AI + Robotics projects
-- Exploring autonomous systems & sensor fusion
-
-## 🌱 Currently Learning
-<div align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="ML"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="DL"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-00D2B8?style=for-the-badge&logo=opencv&logoColor=white" alt="CV"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
-</div>
-
-- Neural Networks & Deep Learning
-- Computer Vision (OpenCV, YOLO, etc.)
-- Robot Operating System (ROS/ROS2)
-- Reinforcement Learning
-- Sensor Fusion & Embedded Systems
-
-<br>
-
 ## 🛠️ Tech Stack & Tools
 
 ### Languages & Frameworks
@@ -54,40 +30,6 @@ I'm a curious and motivated learner obsessed with creating smart machines and so
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
-
-## 🏆 Learning Roadmap
-| Stage                  | Topics                                      | Status       |
-|-----------------------|----------------------------------------------|--------------|
-| 1. AI Fundamentals     | Python, NumPy, Pandas, ML Basics             | ✅ Completed |
-| 2. Machine Learning    | Supervised/Unsupervised, Scikit-learn        | ✅ Completed |
-| 3. Deep Learning       | CNNs, RNNs, Transformers, PyTorch           | 🚀 In Progress |
-| 4. Computer Vision     | OpenCV, Object Detection, Segmentation       | 🚀 In Progress |
-| 5. Robotics            | Kinematics, Control Systems, ROS             | 🔜 Upcoming |
-| 6. Advanced Robotics   | SLAM, Navigation, Multi-robot systems        | 🔜 Upcoming |
-
-<br>
-
-## 🎨 Creative Side
-When I'm not coding, I enjoy:
-- Video editing with **Adobe Premiere Pro**
-- Designing with **Adobe Photoshop**
-- Building physical robots & 3D printing
-
-<br>
 
 ## 🤝 Let's Connect!
 <p align="center">
