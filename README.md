@@ -1,10 +1,10 @@
-# Hi there, I'm **Sokserey** 👋
+# Hi there 👋
 
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sokserey&fontSize=70&fontAlignY=38&animation=twinkling)
 
 <p align="center">
-  <em>Passionate learner diving deep into <strong>Artificial Intelligence</strong> and <strong>Robotics</strong> 🤖</em><br>
-  <em>Building intelligent systems, one line of code at a time.</em>
+  <em>Driven by the challenge of creating autonomous robots that move, perceive, and adapt with grace</em><br>
+  <em>and resilience in dynamic real-world environments 🤖</em>
 </p>
 
 <br>
