@@ -3,8 +3,8 @@
 ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sokserey&fontSize=70&fontAlignY=38&animation=twinkling)
 
 <p align="center">
-  <em>Driven by the challenge of creating autonomous robots that move, perceive, and adapt with grace</em><br>
-  <em>and resilience in dynamic real-world environments 🤖</em>
+  <em>Teaching robots how to move, see, and behave… so they don’t panic in the real world 🤖</em><br>
+  <em>Powered by curiosity, code, and a lot of debugging.</em>
 </p>
 
 <br>
@@ -13,8 +13,9 @@
 
 I am an engineer who loves building robots and intelligent systems that solve real-world problems. My main interests are robotics, control systems, and artificial intelligence. I enjoy learning by designing, coding, and testing ideas in real projects. My goal is to create autonomous robots that can move, see, and make decisions reliably in real-world environments.
 
-"The best way to predict the future is to invent it." – Alan Kay
+> _"The best way to predict the future is to invent it."_ – Alan Kay
 
+<br>
 <br>
 
 ## 🛠️ Tech Stack & Tools
