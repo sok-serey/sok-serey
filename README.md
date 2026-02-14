@@ -9,10 +9,13 @@
 
 <br>
 
-## 🚀 About Me
-I'm a curious and motivated learner obsessed with creating smart machines and solving real-world problems through AI and robotics.
+🚀 About Me
 
-> _"The best way to predict the future is to invent it."_ – Alan Kay
+I am an engineer who loves building robots and intelligent systems that solve real-world problems. My main interests are robotics, control systems, and artificial intelligence. I enjoy learning by designing, coding, and testing ideas in real projects. My goal is to create autonomous robots that can move, see, and make decisions reliably in real-world environments.
+
+"The best way to predict the future is to invent it." – Alan Kay
+
+<br>
 
 ## 🛠️ Tech Stack & Tools
 
