@@ -3,7 +3,7 @@
   
   <p>
     <em>Teaching robots how to move, see, and behave… so they don’t panic in the real world 🤖</em><br>
-    <em>Fueled by curiosity, code, and endless debugging sessions.</em>
+    <em>Powered by curiosity, code, and endless debugging sessions.</em>
   </p>
 
   <br>
