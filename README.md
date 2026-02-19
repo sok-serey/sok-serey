@@ -2,15 +2,16 @@
   <h1>Hi there! 👋 I'm Sokserey</h1>
   
   <p>
-    <em>Teaching robots how to move, see, and behave — so they stay calm and capable in the real world 🤖</em><br>
-    <em>Powered by curiosity, clean code, and a healthy amount of debugging ☕</em>
+    <em>Teaching robots how to move, see, and behave… so they don’t panic in the real world 🤖</em><br>
+    <em>Fueled by curiosity, code, and endless debugging sessions.</em>
   </p>
 
   <br>
 
   <p>
-    Robotics engineer passionate about creating <strong>intelligent, reliable autonomous systems</strong>.<br>
-    I build robots that can <strong>perceive • decide • act</strong> robustly in complex, dynamic environments.
+   🚀 **About Me**
+
+  Engineer and robotics enthusiast passionate about building intelligent systems that solve real-world challenges. My expertise spans **robotics, control systems, and artificial intelligence**, with hands-on experience in designing,          coding, and testing autonomous robots. My goal is to create robots that can **perceive, decide, and act reliably** in dynamic environments.
   </p>
 
   <p>
