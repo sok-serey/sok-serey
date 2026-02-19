@@ -9,8 +9,8 @@
   <br>
 
   <p>
-   🚀 **About Me**
-
+  <h2> 🚀 About Me </h2>
+    
   Engineer and robotics enthusiast passionate about building intelligent systems that solve real-world challenges. My expertise spans **robotics, control systems, and artificial intelligence**, with hands-on experience in designing,          coding, and testing autonomous robots. My goal is to create robots that can **perceive, decide, and act reliably** in dynamic environments.
   </p>
 
