@@ -15,7 +15,7 @@
   </p>
 
   <p>
-    🌐 <strong>Personal Website:</strong> 
+    🌐 <strong>My Blog:</strong> 
     <a href="https://sok-serey.github.io/project.html"><strong>https://sok-serey.github.io</strong></a>
   </p>
 
