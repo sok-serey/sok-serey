@@ -4,18 +4,17 @@
 
 <p align="center">
   <em>Teaching robots how to move, see, and behave… so they don’t panic in the real world 🤖</em><br>
-  <em>Powered by curiosity, code, and a lot of debugging.</em>
+  <em>Fueled by curiosity, code, and endless debugging sessions.</em>
 </p>
 
 <br>
 
-🚀 About Me
+🚀 **About Me**
 
-I am an engineer who loves building robots and intelligent systems that solve real-world problems. My main interests are robotics, control systems, and artificial intelligence. I enjoy learning by designing, coding, and testing ideas in real projects. My goal is to create autonomous robots that can move, see, and make decisions reliably in real-world environments.
+Engineer and robotics enthusiast passionate about building intelligent systems that solve real-world challenges. My expertise spans **robotics, control systems, and artificial intelligence**, with hands-on experience in designing, coding, and testing autonomous robots. My goal is to create robots that can **perceive, decide, and act reliably** in dynamic environments.  
 
 > _"The best way to predict the future is to invent it."_ – Alan Kay
 
-<br>
 <br>
 
 ## 🛠️ Tech Stack & Tools  
@@ -42,16 +41,17 @@ I am an engineer who loves building robots and intelligent systems that solve re
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
+<br>
 
+## 🌐 Connect & Explore
 
-## 🤝 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://sok-serey.github.io/"><img src="https://img.shields.io/badge/Website-101010?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/srey-sokserey-43a27817b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
-  <em>Feel free to explore my projects and reach out for collaboration on AI or Robotics!</em>
+  <em>Explore my projects, research, and collaborations in robotics and AI!</em>
 </p>
 
 <br>
