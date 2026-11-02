@@ -122,5 +122,5 @@ I am a robotics engineer passionate about building physical systems that **perce
 
 <div align="center">
   <em>Curious about autonomous systems, robot learning, embodied AI, or robust control?<br>
-  Feel free to explore my work — I'd love to connect and collaborate! 🚀</em>
+  Feel free to explore my work — I'd love to connect and collaborate!! 🚀</em>
 </div>
