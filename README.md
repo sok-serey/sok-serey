@@ -1,83 +1,121 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Sokserey</h1>
+
+  <h1>👋 Hi, I'm Sokserey (សេរី)</h1>
   
-  <p>
-    <em>Teaching robots how to move, see, and behave… so they don’t panic in the real world 🤖</em><br>
-    <em>Powered by curiosity, code, and endless debugging sessions.</em>
+  <p align="center">
+    <strong>Robotics & Autonomous Systems Engineer</strong><br>
+    <em>Bridging nonlinear dynamics, modern control theory, and reinforcement learning.</em>
   </p>
 
-  <br>
-
-  <p>
-  <h2> 🚀 About Me </h2>
-    
-  Engineer and robotics enthusiast passionate about building intelligent systems that solve real-world challenges. My expertise spans **robotics, control systems, and artificial intelligence**, with hands-on experience in designing,          coding, and testing autonomous robots. My goal is to create robots that can **perceive, decide, and act reliably** in dynamic environments.
-  </p>
-
-  <p>
-    🌐 <strong>My Blog:</strong> 
-    <a href="https://sok-serey.github.io/project.html"><strong>https://sok-serey.github.io</strong></a>
-  </p>
-
-  <blockquote>
-    <p>"The best way to predict the future is to invent it." – Alan Kay</p>
-  </blockquote>
-
-  <br>
-</div>
-
-<!-- Spacer -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Robotics+%7C+Control+Systems+%7C+AI" alt="Typing SVG" />
-</div>
-
-<br>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 🤖 Robotics & Simulation
-<p>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/>
-  <img src="https://img.shields.io/badge/Gazebo-4285F4?style=for-the-badge&logo=gz&logoColor=white" alt="Gazebo"/>
-  <img src="https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=mujoco&logoColor=white" alt="MuJoCo"/>
-  <img src="https://img.shields.io/badge/Isaac+Sim-00D1FF?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac Sim"/>
-</p>
-
-### 💻 Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-</p>
-
-</div>
-
-<br>
-
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://sok-serey.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  <!-- Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00D2B4&center=true&vCenter=true&width=620&lines=Robotics+Software+%26+Autonomous+Systems;State-Space+Control+%7C+LQR+%7C+Kalman+Filtering;Embodied+AI+%26+Deep+Reinforcement+Learning;ROS+2+%7C+MuJoCo+%7C+Isaac+Sim+%7C+Gazebo" alt="Typing SVG" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+  <br><br>
+
+  <!-- Social & Quick Links -->
+  <a href="https://sok-serey.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/srey-sokserey-43a27817b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
+  <a href="mailto:sokserey215@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+<br>
+
+---
+
+### 🤖 About Me
+
+I am a robotics engineer passionate about building physical systems that **perceive, balance, and navigate reliably** in real-world environments. My work combines **classical control theory** (LQR, Pole Placement, Extended Kalman Filtering) with modern **deep reinforcement learning** (PPO, SAC, Sim-to-Real) to solve complex robotic locomotion and manipulation challenges.
+
+- 🔬 **Focus Areas:** Autonomous Mobile Robots (AMR), Underactuated Balance Systems, Robot Learning.
+- 🎯 **Recent Work:** Attitude determination algorithms for LEO satellites, reaction-wheel inverted pendulums, and domain-randomized RL balancing robots.
+- 💡 **Philosophy:** *"The best way to predict the future is to invent it."* — Alan Kay
+
+---
+
+### 🚀 Featured Engineering Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🛰️ **[Satellite Attitude Control](https://github.com/sok-serey/Satellite-Attitude-Control-Master-Thesis)** | Extended Kalman Filter (EKF) based attitude determination and control algorithms for LEO microsatellites. | `MATLAB` `Simulink` `Kalman Filter` |
+| ⚖️ **[Cart Inverted Pendulum](https://github.com/sok-serey/Cart_Inverted_Pendulum)** | State-feedback balancing controllers designed via Pole Placement & LQR with hardware testing and simulation. | `C++` `Control Theory` `LQR` |
+| 🔄 **[Self-Balancing Stick](https://github.com/sok-serey/self-balancing-stick)** | Dual-axis reaction-wheel inverted pendulum balancing dynamically on edges and points. | `C++` `Embedded` `Dynamics` |
+| 🚗 **[ROS 2 Autonomous Navigation](https://github.com/sok-serey/Self-Driving-and-ROS-2-Learn-by-Doing-Odometry-Control)** | Full-stack AMR with wheel odometry, differential drive kinematics, and Nav2 path planning. | `ROS 2` `C++` `Python` `Gazebo` |
+| 🤖 **[Balancing Bot RL](https://github.com/sok-serey/balancing_bot_rl)** | Deep Reinforcement Learning for dynamic robotic balancing using domain randomization. | `Python` `PyTorch` `Gymnasium` `URDF` |
+| 📦 **[Delivery Robot Package](https://github.com/sok-serey/delivery_robot)** | ROS package for differential drive mobile robots in simulated and physical environments. | `ROS` `Python` `Navigation` |
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+#### Robotics & Simulation
+<p>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/>
+  <img src="https://img.shields.io/badge/Gazebo-F58220?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo"/>
+  <img src="https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=mujoco&logoColor=white" alt="MuJoCo"/>
+  <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Isaac Sim"/>
+</p>
+
+#### Control Systems & Modeling
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Simulink-E16B00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
+  <img src="https://img.shields.io/badge/State--Space_Control-1B365D?style=for-the-badge" alt="State Space"/>
+  <img src="https://img.shields.io/badge/Kalman_Filtering-005A9C?style=for-the-badge" alt="Kalman Filter"/>
+  <img src="https://img.shields.io/badge/LQR_Control-2E7D32?style=for-the-badge" alt="LQR"/>
+</p>
+
+#### Machine Learning & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Gymnasium-008080?style=for-the-badge&logo=openaigym&logoColor=white" alt="Gymnasium"/>
+</p>
+
+#### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
+</p>
+
+#### Hardware, OS & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Linux_/_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/BeagleBone-8B181B?style=for-the-badge&logo=beagleboard&logoColor=white" alt="Beaglebone"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sok-serey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sok-serey&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sok-serey&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%"/>
 </div>
 
 <br>
@@ -85,11 +123,4 @@
 <div align="center">
   <em>Curious about autonomous systems, robot learning, embodied AI, or robust control?<br>
   Feel free to explore my work — I'd love to connect and collaborate! 🚀</em>
-</div>
-
-<!-- Optional: GitHub stats or streak (you can remove if you don't like it) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sok-serey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sok-serey&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
