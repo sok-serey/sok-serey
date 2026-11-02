@@ -45,14 +45,14 @@ I am a robotics engineer passionate about building physical systems that **perce
 
 ### 🚀 Featured Engineering Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🛰️ **[Satellite Attitude Control](https://github.com/sok-serey/Satellite-Attitude-Control-Master-Thesis)** | Extended Kalman Filter (EKF) based attitude determination and control algorithms for LEO microsatellites. | `MATLAB` `Simulink` `Kalman Filter` |
-| ⚖️ **[Cart Inverted Pendulum](https://github.com/sok-serey/Cart_Inverted_Pendulum)** | State-feedback balancing controllers designed via Pole Placement & LQR with hardware testing and simulation. | `C++` `Control Theory` `LQR` |
-| 🔄 **[Self-Balancing Stick](https://github.com/sok-serey/self-balancing-stick)** | Dual-axis reaction-wheel inverted pendulum balancing dynamically on edges and points. | `C++` `Embedded` `Dynamics` |
-| 🚗 **[ROS 2 Autonomous Navigation](https://github.com/sok-serey/Self-Driving-and-ROS-2-Learn-by-Doing-Odometry-Control)** | Full-stack AMR with wheel odometry, differential drive kinematics, and Nav2 path planning. | `ROS 2` `C++` `Python` `Gazebo` |
-| 🤖 **[Balancing Bot RL](https://github.com/sok-serey/balancing_bot_rl)** | Deep Reinforcement Learning for dynamic robotic balancing using domain randomization. | `Python` `PyTorch` `Gymnasium` `URDF` |
-| 📦 **[Delivery Robot Package](https://github.com/sok-serey/delivery_robot)** | ROS package for differential drive mobile robots in simulated and physical environments. | `ROS` `Python` `Navigation` |
+| Project | Description | Tech Stack | Showcase |
+| :--- | :--- | :--- | :--- |
+| 🛰️ **Satellite Attitude Control** | Extended Kalman Filter (EKF) based attitude determination and control algorithms for LEO microsatellites. | `MATLAB` `Simulink` `Kalman Filter` | [View Project](https://my-project.sokserey215.workers.dev/#projects) |
+| ⚖️ **Cart Inverted Pendulum** | State-feedback balancing controllers designed via Pole Placement & LQR with hardware testing and simulation. | `C++` `Control Theory` `LQR` | [View Project](https://my-project.sokserey215.workers.dev/#projects) |
+| 🔄 **Self-Balancing Stick** | Dual-axis reaction-wheel inverted pendulum balancing dynamically on edges and points. | `C++` `Embedded` `Dynamics` | [View Project](https://my-project.sokserey215.workers.dev/#projects) |
+| 🚗 **ROS 2 Autonomous Navigation** | Full-stack AMR with wheel odometry, differential drive kinematics, and Nav2 path planning. | `ROS 2` `C++` `Python` `Gazebo` | [View Project](https://my-project.sokserey215.workers.dev/#projects) |
+| 🤖 **Balancing Bot RL** | Deep Reinforcement Learning for dynamic robotic balancing using domain randomization. | `Python` `PyTorch` `Gymnasium` `URDF` | [View Project](https://my-project.sokserey215.workers.dev/#projects) |
+| 📦 **Delivery Robot Package** | ROS package for differential drive mobile robots in simulated and physical environments. | `ROS` `Python` `Navigation` | [View Project](https://my-project.sokserey215.workers.dev/#projects) |
 
 ---
 
