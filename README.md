@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm Sokserey (សេរី)</h1>
+  <h1>👋 Hi, I'm Sokserey (សិរី)</h1>
   
   <p align="center">
     <strong>Robotics & Autonomous Systems Engineer</strong><br>
