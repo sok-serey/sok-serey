@@ -107,16 +107,6 @@ I am a robotics engineer passionate about building physical systems that **perce
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sok-serey&theme=tokyonight&no-frame=true&margin-w=12&row=1" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br>
-
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
