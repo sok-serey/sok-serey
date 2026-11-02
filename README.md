@@ -15,8 +15,8 @@
   <br><br>
 
   <!-- Social & Quick Links -->
-  <a href="https://sok-serey.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://my-project.sokserey215.workers.dev/#projects">
+    <img src="https://img.shields.io/badge/Portfolio_&_Projects-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio & Projects"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/srey-sokserey-43a27817b/">
